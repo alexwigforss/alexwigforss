@@ -12,7 +12,13 @@
 - 📫 How to reach me ...
   <ul>
     <li>Discord oncleX#2896</li>
-  </ul> 
+  </ul>
+  
+- 📝 More about me (My Blog(In swedish))
+  <ul>
+    <li>https://alex.wigforss.nu/</li>
+  </ul>
+  - 
 <!---
 alexwigforss/alexwigforss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
