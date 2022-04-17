@@ -4,7 +4,7 @@
 - 👨🏻‍💻 I’m currently working on
   <ul>
     <li>[My pythonproject for school Bilfirman] (Console based program mimicking a system for a car sale company)</li>
-    <li>[Mathattacks] (Pygame project. A simple little game for practicing multiplication division and equations by head)</li>
+    <li>[MatteAttackerar] (Pygame project. A simple little game for practicing multiplication division and equations by head)</li>
   </ul> 
       
       
