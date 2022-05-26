@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @alexwigforss
-- 👀 I’m interested in Games, Code, Plants etc
+- 👀 I’m interested in Games, Code, Plants etc. Also in sewing machines and tailoring.
 - 🌱 I’m currently learning Python
 - 👨🏻‍💻 I’m currently working on
   <ul>
