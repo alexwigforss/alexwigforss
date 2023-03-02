@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @alexwigforss
 - 👀 I’m interested in Games, Code, Plants etc. Also in sewing machines and tailoring.
-- 🌱 I’m currently learning trigonometri.
+- 🌱 I am currently studying software development at a university of applied sciences
 - 👨🏻‍💻 I’m currently working on
   <ul>
-    <li>[This and that] (Some visualizations related to my math course.)</li>
+    <li>[This and that] (Sound synthesis experiments, Etc)</li>
     <li>[MatteAttackerar] (Pygame project. A simple little game for practicing multiplication division and equations by head)</li>
   </ul> 
       
