@@ -1,10 +1,9 @@
 - 👋 Hi, I’m @alexwigforss
 - 👀 I’m interested in Games, Code, Plants etc. Also in sewing machines and tailoring.
-- 🌱 I am currently studying software development at a university of applied sciences
+- 🌱 I am studying graphic communication, web development, and Python along with a conceptual course on machine learning.
 - 👨🏻‍💻 I’m currently working on
   <ul>
-    <li>[This and that] (Sound synthesis experiments, Etc)</li>
-    <li>[MatteAttackerar] (Pygame project. A simple little game for practicing multiplication division and equations by head)</li>
+    <p>Apart from my studies I mostly prototype various games with educational ambitions</p>
   </ul> 
       
       
@@ -16,7 +15,7 @@
   
 - 📝 More about me ...
   <ul>
-    <li>https://alex.wigforss.nu/ (My Blog(In swedish))</li>
+    <li>https://alex.wigforss.nu/ (My Blog(In Swedish))</li>
   </ul>
 <!---
 alexwigforss/alexwigforss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
