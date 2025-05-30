@@ -13,10 +13,6 @@
     <li>Discord oncleX#2896</li>
   </ul>
   
-- 📝 More about me ...
-  <ul>
-    <li>https://alex.wigforss.nu/ (My Blog(In Swedish))</li>
-  </ul>
 <!---
 alexwigforss/alexwigforss is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
