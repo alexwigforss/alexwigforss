@@ -10,7 +10,7 @@ I am a software developer driven by creating interactive experiences where the u
 
   * **[BeeSprint](https://github.com/alexwigforss/BeeSprint1):** An advanced ecosystem simulation in Unity, focusing on resource optimization and autonomous agents.
   * **[LabySums](https://www.google.com/search?q=https://github.com/alexwigforss/LabySums):** A procedural dungeon-maze in Godot that transforms math practice into an adventure.
-  * **CoderDojo Norrköping:** As a Dojo lead, I guide the next generation of creators through the world of code every other weekend.
+  * **CoderDojo Norrköping:** As a Dojo coach, I guide the next generation of creators through the world of code every other weekend.
 
 -----
 
